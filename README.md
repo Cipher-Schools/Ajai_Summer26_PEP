@@ -19,7 +19,9 @@ Each file is **one topic**. Open them in this order. Don't rush. One topic per d
 | 3 | `03-Two-Pointers.md` | The two-pointer trick (reverse, pair-sum) |
 | 4 | `04-Binary-Search.md` | Lightning-fast search on sorted arrays |
 | 5 | `05-Strings.md` | Reverse, palindrome, anagram, frequency count |
-| 6 | `06-Sorting.md` | Bubble, selection, and the built-in sort |
+| 6 | `06-Recursion.md` | Down vs up, leap of faith, factorial, fibonacci, 8 worked problems |
+
+> 📌 *Sorting will be added soon as its own file — leaving a clear spot for it once it's taught.*
 
 ---
 
