@@ -21,8 +21,16 @@ Each file is **one topic**. Open them in this order. Don't rush. One topic per d
 | 5 | `05-Strings.md` | Reverse, palindrome, anagram, frequency count |
 | 6 | `06-Recursion.md` | Down vs up, leap of faith, factorial, fibonacci, 8 worked problems |
 | 7 | `07-Hashing.md` | HashSet vs HashMap, Two Sum, frequency counting, 6 worked problems |
+| 8 | `08-Prefix-Sum.md` | "Remember, don't recalculate" — running sums, pivot, product-except-self |
 
 > 📌 *Sorting will be added soon as its own file — leaving a clear spot for it once it's taught.*
+
+### 🧰 Extra Folders
+
+| Folder / File | What's Inside |
+|---------------|---------------|
+| `Language-Basics/` | Syntax cheat-sheets for **Java, C++, Python** — for when you're stuck on *how to write it*, not *what to do* |
+| `Daily-Problems-Log.md` | The running list of problems solved each day, with links and the key idea |
 
 ---
 
