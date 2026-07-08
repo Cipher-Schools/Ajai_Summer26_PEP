@@ -23,6 +23,7 @@ Each file is **one topic**. Open them in this order. Don't rush. One topic per d
 | 7 | `07-Hashing.md` | HashSet vs HashMap, Two Sum, frequency counting, 6 worked problems |
 | 8 | `08-Prefix-Sum.md` | "Remember, don't recalculate" — running sums, pivot, product-except-self |
 | 9 | `09-Sliding-Window.md` | Fixed & variable windows — the slow, clear guide with 9 worked problems |
+| 10 | `10-Linked-List.md` | Day 1 foundations + Day 2 interview combos — 12 problems, ~90% of LL patterns |
 
 > 📌 *Sorting will be added soon as its own file — leaving a clear spot for it once it's taught.*
 
