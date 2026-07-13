@@ -24,6 +24,7 @@ Each file is **one topic**. Open them in this order. Don't rush. One topic per d
 | 8 | `08-Prefix-Sum.md` | "Remember, don't recalculate" — running sums, pivot, product-except-self |
 | 9 | `09-Sliding-Window.md` | Fixed & variable windows — the slow, clear guide with 9 worked problems |
 | 10 | `10-Linked-List.md` | Day 1 foundations + Day 2 interview combos — 12 problems, ~90% of LL patterns |
+| 11 | `11-Stack.md` | LIFO, array vs linked-list stack, bracket matching (3 worked problems) |
 
 > 📌 *Sorting will be added soon as its own file — leaving a clear spot for it once it's taught.*
 
