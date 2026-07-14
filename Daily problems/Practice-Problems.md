@@ -58,4 +58,20 @@
 | Product of Array Except Self | Medium | https://leetcode.com/problems/product-of-array-except-self/ | Left product × right product |
 | Range Sum Query - Immutable | Easy | https://leetcode.com/problems/range-sum-query-immutable/ | Precompute prefix, answer ranges in O(1) |
 | Maximum Subarray | Medium | https://leetcode.com/problems/maximum-subarray/ | Running sum, reset when negative (Kadane) |
-|
+| Implement Stack Using Array | Easy | https://www.geeksforgeeks.org/problems/implement-stack-using-array/1 | Array + top pointer |
+| Implement Stack Using Linked List | Easy | https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1 | Push/pop at head |
+| Implement Stack Using Queues | Easy | https://leetcode.com/problems/implement-stack-using-queues/ | Pop = transfer n−1, dequeue last |
+| Baseball Game | Easy | https://leetcode.com/problems/baseball-game/ | Stack follows operation rules |
+| Remove Outermost Parentheses | Easy | https://leetcode.com/problems/remove-outermost-parentheses/ | Counter tracks depth, skip outer |
+| Backspace String Compare | Easy | https://leetcode.com/problems/backspace-string-compare/ | '#' = pop, then compare |
+| Make The String Great | Easy | https://leetcode.com/problems/make-the-string-great/ | Stack top and curr differ by 32 → pop |
+| Remove All Adjacent Duplicates in String | Easy | https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/ | Push if different, pop if same as top |
+| Valid Parentheses | Easy | https://leetcode.com/problems/valid-parentheses/ | Push opening, match & pop |
+| Minimum Add to Make Parentheses Valid | Medium | https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/ | Count unmatched |
+| Minimum Remove to Make Valid Parentheses | Medium | https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/ | Push indices, remove unmatched |
+| Longest Valid Parentheses | Hard | https://leetcode.com/problems/longest-valid-parentheses/ | Stack of indices, track distance |
+| Next Greater Element | Medium | https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1 | Stack keeps decreasing order |
+| Next Greater Element I | Easy | https://leetcode.com/problems/next-greater-element-i/ | Monotonic stack + hashmap |
+| Next Greater Element II | Medium | https://leetcode.com/problems/next-greater-element-ii/ | Circular → traverse 2× |
+| Daily Temperatures | Medium | https://leetcode.com/problems/daily-temperatures/ | Stack of indices, pop when warmer |
+| Online Stock Span | Medium | https://leetcode.com/problems/online-stock-span/ | Stack of (price, span) pairs |
