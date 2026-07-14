@@ -58,3 +58,4 @@
 | Product of Array Except Self | Medium | https://leetcode.com/problems/product-of-array-except-self/ | Left product × right product |
 | Range Sum Query - Immutable | Easy | https://leetcode.com/problems/range-sum-query-immutable/ | Precompute prefix, answer ranges in O(1) |
 | Maximum Subarray | Medium | https://leetcode.com/problems/maximum-subarray/ | Running sum, reset when negative (Kadane) |
+|
