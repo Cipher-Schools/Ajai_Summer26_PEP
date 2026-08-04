@@ -30,12 +30,21 @@ Each file is **one topic**. Open them in this order. Don't rush. One topic per d
 
 > 📌 *Sorting will be added soon as its own file — leaving a clear spot for it once it's taught.*
 
+
 ### 🧰 Extra Folders
 
 | Folder / File | What's Inside |
 |---------------|---------------|
 | `Language-Basics/` | Syntax cheat-sheets for **Java, C++, Python** — for when you're stuck on *how to write it*, not *what to do* |
 | `Daily-Problems-Log.md` | The running list of problems solved each day, with links and the key idea |
+
+Backend repo Link:
+`https://github.com/Ajairajv/mern-workout-tracker-course`
+
+
+GenAI repo link:
+`https://github.com/Ajairajv/Simple-Rag-App`
+
 
 ---
 
