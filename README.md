@@ -39,11 +39,13 @@ Each file is **one topic**. Open them in this order. Don't rush. One topic per d
 | `Daily-Problems-Log.md` | The running list of problems solved each day, with links and the key idea |
 
 Backend repo Link:
-`https://github.com/Ajairajv/mern-workout-tracker-course`
+[mern-workout-tracker-course](https://github.com/Ajairajv/mern-workout-tracker-course)
+
 
 
 GenAI repo link:
-`https://github.com/Ajairajv/Simple-Rag-App`
+[Simple-Rag-App](https://github.com/Ajairajv/Simple-Rag-App)
+
 
 
 ---
